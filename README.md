@@ -12,3 +12,8 @@ Alternatively you can:
 2. Zip everything, excluding this README file
 3. Create a new layer from the main AWS Lambda page
 4. Upload zip file
+
+
+| aws-cli version |  ARN |
+| --- | --- |
+| 0 |  `arn:aws:lambda:us-east-2:804798220069:layer:awsCLILayer:6` |
