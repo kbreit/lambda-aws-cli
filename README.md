@@ -16,4 +16,4 @@ Alternatively you can:
 
 | aws-cli version |  ARN |
 | --- | --- |
-| 0 |  `arn:aws:lambda:us-east-2:804798220069:layer:awsCLILayer:6` |
+| 1.16.76 |  `arn:aws:lambda:us-east-2:804798220069:layer:awsCLILayer:6` |
