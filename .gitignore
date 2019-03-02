@@ -1,0 +1,5 @@
+pyvenv.cfg
+
+bin/*
+!bin/aws
+__pycache__/
